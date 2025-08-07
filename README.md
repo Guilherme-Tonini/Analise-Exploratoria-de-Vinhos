@@ -8,19 +8,22 @@ pip install -r requirements.txt
 
 Este projeto foi desenvolvido como Tech Challenge da pós-graduação em Data Analytics na Fiap referente a Fase 1 - Data Analysis and Exploration. O projeto tem o objetivo de analisar a exportação de vinhos do Brasil para o mundo ao longo dos últimos 15 anos disponíveis. O trabalho envolveu a construção de relatórios iniciais com base em dados históricos a fim de gerar insights estratégicos.
 
-## Objetivo
+## O problema
 
-Avaliar o montante de exportações de vinhos brasileiros (em litros e em valor US$) para diversos países de destino, analisando fatores externos que podem influenciar nos resultados como por exemplo:
+Você vai atuar como Expert em Data Analytics em uma empresa que exporta vinhos do Brasil para o mundo todo.<br>
+Você será responsável pelos relatórios iniciais, explicando a quantidade de vinhos exportados e fatores externos que podem vir a surgir e que interferem nas análises:<br>
+1- Dados climáticos. <br>
+2- Dados demográficos.<br>
+3- Dados econômicos.<br>
+4- Dados de avaliações de vinhos.<br>
+<br>
+O Head de Dados pediu para que você construísse uma tabela contendo as seguintes informações:<br>
+a.País de origem(Brasil).<br>
+b.País de destino.<br>
+c.Quantidade em litros de vinho exportado (utilize:1Kg=1L)<br>
+d.Valor em US$<br>
 
--Dados climáticos
-
--Dados demográficos
-
--Dados econômicos
-
--Dados de avaliações de vinhos
-
-Além disso, o estudo traz sugestões de ações estratégicas para otimizar as exportações.
+Seu objetivo é dizer o montante de vendas de exportação nos últimos 15 anos, separando a análise por país e trazendo quais as prospecções futuras e possíveis ações para uma melhoria nas exportações
 
 ## Estrutura dos Arquivos
 
